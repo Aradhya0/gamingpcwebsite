@@ -1,1 +1,1 @@
-website is live at http://127.0.0.1:5500/index.html
+website is live at https://gamingpcwebsite.vercel.app/
